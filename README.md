@@ -145,6 +145,7 @@ Before diving into tactics, understand the principles. These essays explore the 
 - **[决策链](Docs/决策链.md)** — A six-step decision chain chaining system dynamics, inversion, Bayesian updating, OODA, second-order and expected-value thinking
 - **[Prompt 形式论：文质彬彬](Docs/Prompt形式论-文质彬彬.md)** — On the form of prompts: let content take its natural shape first, then let structure fit it, so the form itself becomes the shape of the thought
 - **[哑铃社会](Docs/哑铃社会.md)** — AI is pressing the spindle-shaped society into a dumbbell: the middle hollows out, and the real divide is whether you have something that must be yours
+- **[思考与河床](Docs/思考与河床.md)** — AI is the first riverbed engineered rather than eroded: the first influence mechanism in history that makes the influenced feel autonomous
 
 *These foundational insights will transform how you think about prompts.*
 
