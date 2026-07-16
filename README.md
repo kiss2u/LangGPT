@@ -144,6 +144,7 @@ Before diving into tactics, understand the principles. These essays explore the 
 - **[Prompt、Agent，与一个不再沉默的世界](Docs/Prompt-Agent-人-AI-世界.md)** — How agents reshape the prompt from a transaction into a delegation across the human–AI–world triad
 - **[决策链](Docs/决策链.md)** — A six-step decision chain chaining system dynamics, inversion, Bayesian updating, OODA, second-order and expected-value thinking
 - **[Prompt 形式论：文质彬彬](Docs/Prompt形式论-文质彬彬.md)** — On the form of prompts: let content take its natural shape first, then let structure fit it, so the form itself becomes the shape of the thought
+- **[哑铃社会](Docs/哑铃社会.md)** — AI is pressing the spindle-shaped society into a dumbbell: the middle hollows out, and the real divide is whether you have something that must be yours
 
 *These foundational insights will transform how you think about prompts.*
 
