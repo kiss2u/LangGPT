@@ -350,7 +350,13 @@ GitHubへの貢献は初めてですか？この[GitHub最小貢献ガイド](ht
 
 ## 📊 スター履歴
 
-[![Star History Chart](https://api.star-history.com/svg?repos=langgptai/LangGPT&type=Date)](https://star-history.com/#langgptai/LangGPT&Date)
+<a href="https://star-history.com/#langgptai/LangGPT&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=langgptai/langgpt&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=langgptai/langgpt&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=langgptai/langgpt&type=Date" />
+  </picture>
+</a>
 
 ---
 
